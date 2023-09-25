@@ -12,7 +12,7 @@ Because this is a command-line application won’t be deployed, here is a <a hre
 
 ## Application Running in Command Line
 The following picture shows the command line functionality of the program:
-![README](assets/FunctionalityREADME.png)
+![README](FunctionalityREADME.png)
 
 
 ## User Story
