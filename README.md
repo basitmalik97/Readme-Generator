@@ -47,7 +47,7 @@ THEN I am taken to the corresponding section of the README
 
 * Functional application.
 
-* Here is my <a href="https://github.com/basitmalik97/README-Generator" target="_blank">GitHub Repo Link</a>.
+* Here is my <a href="https://github.com/basitmalik97/create-readme" target="_blank">GitHub Repo Link</a>.
 
 ## The generated README includes the following sections: 
 
