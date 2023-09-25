@@ -8,7 +8,7 @@ I've developed a command-line application that dynamically assembles a polished 
 node index.js
 ```
 
-Because this is a command-line application won’t be deployed, here is a <a href="https://drive.google.com/file/d/1VWWWcUwy8Li_TuWUN21cfA7TWxyq-Opn/view?usp=drive_link" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application.
+Because this is a command-line application won’t be deployed, here is a <a href="https://drive.google.com/file/d/1VWWWcUwy8Li_TuWUN21cfA7TWxyq-Opn/view?usp=sharing" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application.
 
 ## Application Running in Command Line
 The following picture shows the command line functionality of the program:
